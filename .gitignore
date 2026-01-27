@@ -3,3 +3,4 @@ expert.log
 ExpertOptionAPI.egg-info
 dist
 build
+.venv
