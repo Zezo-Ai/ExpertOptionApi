@@ -5,7 +5,7 @@ join the discord: [Discord](https://discord.gg/kaZ8uV9b6k)
 
 The ExpertOption API offers a programmable interface to interact with Expert Option, a renowned platform for binary options trading. This unofficial API facilitates automated trading, data retrieval, and analysis, enhancing the trading experience.
 
-**GitHub Project:** [ExpertOptionApi](https://github.com/theshadow76/ExpertOptionApi)  
+**GitHub Project:** [ExpertOptionApi](https://github.com/ChipaDevTeam/ExpertOptionApi)  
 **PyPi Package:** [ExpertOptionAPI on PyPi](https://pypi.org/project/ExpertOptionAPI/)
 
 ## Table of Contents
@@ -30,7 +30,7 @@ The ExpertOption API offers a programmable interface to interact with Expert Opt
 **From GitHub:**
 
 ```bash
-git clone https://github.com/theshadow76/ExpertOptionApi.git
+git clone https://github.com/ChipaDevTeam/ExpertOptionApi.git
 cd ExpertOptionApi
 pip install -r requirements.txt
 ```
